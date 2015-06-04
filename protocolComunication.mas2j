@@ -1,0 +1,10 @@
+MAS protocolComunication {
+
+	infrastructure: Centralised
+	environment: Protocol
+	agents:
+		agent1 sample_agent;
+
+	aslSourcePath:
+		"src/asl";
+}
